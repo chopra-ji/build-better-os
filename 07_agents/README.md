@@ -136,6 +136,7 @@ All department documentation follows these rules:
 | Department | Domain | Status |
 |---|---|---|
 | [Research Department](./research_department/README.md) | Intelligence, Knowledge Synthesis, Domain Monitoring | active |
+| [Creative Department](./creative_department/README.md) | Creative Direction, Content Architecture, Audience Intelligence | active |
 
 ---
 
