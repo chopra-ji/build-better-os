@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git -C /Users/chakshu/build-better-os add .)",
+      "Bash(git -C /Users/chakshu/build-better-os status --short)"
     ]
   }
 }

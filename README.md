@@ -27,6 +27,7 @@ build-better-os/
 ├── apps/          → Deployable end-user applications
 ├── docs/          → All project documentation
 ├── infra/         → Infrastructure as code
+├── knowledge/     → Institutional knowledge vault (17 domains)
 ├── packages/      → Shared internal libraries
 ├── platform/      → Core OS layer (runtime, integrations, abstractions)
 ├── scripts/       → Developer and build automation scripts

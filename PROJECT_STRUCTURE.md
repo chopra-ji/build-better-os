@@ -26,6 +26,17 @@ build-better-os/
 ├── infra/                          # Infrastructure as code
 │   └── README.md
 │
+├── knowledge/                      # Institutional knowledge vault
+│   ├── README.md                   # Vault overview, standards, and domain map
+│   ├── _templates/                 # Canonical base templates (article, book-note, concept, framework, quote, resource)
+│   └── <domain>/                   # One directory per domain (17 total)
+│       ├── README.md               # Domain purpose, standards, naming, metadata
+│       ├── INDEX.md                # Navigable directory of all active entries
+│       ├── Templates/              # Domain-specific entry templates
+│       ├── Resources/              # Curated external references
+│       ├── Archive/                # Deprecated or superseded entries
+│       └── Examples/               # Annotated high-quality entry examples
+│
 ├── packages/                       # Shared internal libraries and utilities
 │   └── README.md
 │
@@ -59,6 +70,7 @@ build-better-os/
 | `services/` | Service | Domain logic and business rules |
 | `platform/` | Platform | Shared OS primitives and integrations |
 | `packages/` | Shared | Reusable libraries used across layers |
+| `knowledge/` | Knowledge | Institutional knowledge vault |
 | `infra/` | Infrastructure | Compute, storage, networking, CI/CD |
 | `docs/` | Documentation | All docs that do not belong in code |
 | `scripts/` | Tooling | Automation for development and operations |
