@@ -137,6 +137,7 @@ All department documentation follows these rules:
 |---|---|---|
 | [Research Department](./research_department/README.md) | Intelligence, Knowledge Synthesis, Domain Monitoring | active |
 | [Creative Department](./creative_department/README.md) | Creative Direction, Content Architecture, Audience Intelligence | active |
+| [Script Department](./script_department/README.md) | Script Writing, Production Documentation | active |
 
 ---
 
