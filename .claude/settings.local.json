@@ -3,7 +3,8 @@
     "allow": [
       "Bash(git add *)",
       "Bash(git -C /Users/chakshu/build-better-os add .)",
-      "Bash(git -C /Users/chakshu/build-better-os status --short)"
+      "Bash(git -C /Users/chakshu/build-better-os status --short)",
+      "Bash(git -C /Users/chakshu/build-better-os commit -m \"feat: create AI department framework\")"
     ]
   }
 }

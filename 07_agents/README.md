@@ -135,7 +135,7 @@ All department documentation follows these rules:
 
 | Department | Domain | Status |
 |---|---|---|
-| *(none yet)* | — | — |
+| [Research Department](./research_department/README.md) | Intelligence, Knowledge Synthesis, Domain Monitoring | active |
 
 ---
 
