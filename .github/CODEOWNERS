@@ -1,0 +1,27 @@
+# CODEOWNERS
+#
+# Each line assigns ownership for a path pattern. Owners are notified on PRs
+# touching their paths and must approve before merging.
+#
+# Format: <path-pattern> <owner> [<owner> ...]
+# Owners can be GitHub usernames (@user) or teams (@org/team-name).
+#
+# More specific rules override less specific ones.
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# --- Default owner for everything not matched below ---
+*                           @chopra-ji
+
+# --- Platform layer ---
+/platform/                  @chopra-ji
+
+# --- Infrastructure ---
+/infra/                     @chopra-ji
+
+# --- CI/CD pipelines ---
+/.github/workflows/         @chopra-ji
+
+# --- Root documentation ---
+/ARCHITECTURE.md            @chopra-ji
+/ROADMAP.md                 @chopra-ji
+/SECURITY.md                @chopra-ji
